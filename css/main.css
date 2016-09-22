@@ -1,0 +1,14 @@
+body {
+    color: #000;
+}
+#searchTerm {
+    width: 70%;
+}
+#output {
+    margin-top: 1%;
+    border-radius: 10px;
+    font-family: Arial;
+}
+h2 {
+    color: #000;
+}
